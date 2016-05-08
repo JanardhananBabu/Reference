@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+ "-//Hibernate/Hibernate Mapping DTD//EN"
+ "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd"> 
+
+<hibernate-mapping>
+   <class name="com.sample.model.dto.User" table="USER">
+      <meta attribute="class-description">
+         This class contains the user detail. 
+      </meta>
+      <id name="userId" type="int" column="userId">
+      </id>
+      <property name="userName" column="userName" type="string"/>
+      <property name="userInfo" column="userInfo" type="string"/>
+   </class>
+</hibernate-mapping>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-configuration SYSTEM 
+"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+	<session-factory>
+		<property name="hibernate.dialect">
+			org.hibernate.dialect.MySQLDialect
+		</property>
+		<property name="hibernate.connection.driver_class">
+			com.mysql.jdbc.Driver
+		</property>
+		<!-- Showing SQL queries in Log -->
+		<property name="show_sql">
+			true
+		</property>
+		<!-- Drop and Re-create the DB schema on start UP -->
+		<property name="hbm2ddl.auto">
+			update
+		</property>
+
+		<!-- Online 3rd party database -->
+		<property name="hibernate.connection.url">
+			jdbc:mysql://db4free.net:3306/hibernate_mytest
+		</property>
+		<property name="hibernate.connection.username">
+			janabsrinivas
+		</property>
+		<property name="hibernate.connection.password">
+			johnatus
+		</property>
+
+		
+		<!-- List of XML mapping files -->
+		<mapping resource="User.hbm.xml" />
+	</session-factory>
+</hibernate-configuration>

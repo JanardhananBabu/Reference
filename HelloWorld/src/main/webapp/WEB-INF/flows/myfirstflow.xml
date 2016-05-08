@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flow xmlns="http://www.springframework.org/schema/webflow"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/webflow
+        http://www.springframework.org/schema/webflow/spring-webflow-2.0.xsd">
+       
+	<view-state id="start" view="/WEB-INF/views/viewone.jsp">
+	<transition on="next" to="end"></transition>
+	</view-state>
+
+	<view-state id="end" view="/WEB-INF/views/viewtwo.jsp">
+		<transition on="back" to="start"></transition>
+	</view-state>
+	
+</flow>
