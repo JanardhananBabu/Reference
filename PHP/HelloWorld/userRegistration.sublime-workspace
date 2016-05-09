@@ -1,0 +1,338 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"con",
+				"confirm_password"
+			],
+			[
+				"Appointme",
+				"Appointment"
+			],
+			[
+				"valu",
+				"VALUES"
+			],
+			[
+				"app",
+				"appointment_date"
+			],
+			[
+				"form",
+				"formDate"
+			],
+			[
+				"cancel",
+				"cancelBooking"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"cus",
+				"customer_id"
+			],
+			[
+				"appoin",
+				"Appointment_Dates"
+			],
+			[
+				"date",
+				"datepicker"
+			],
+			[
+				"id",
+				"buttonId"
+			],
+			[
+				"butto",
+				"buttonId"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"dat",
+				"datepicker"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/HelloWorld/jTableSimple.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/HelloWorld/check.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/HelloWorld/hello.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/HelloWorld/hello.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/HelloWorld/doctorapps.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/HelloWorld/Codes/jTableSimple.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/HelloWorld/Codes/PersonActions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/HelloWorld/wishpage.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/HelloWorld/wishpage.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/HelloWorld/testhello.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/HelloWorld/index.php",
+		"/Users/jbabu/Desktop/MyWork/AutoRenewDaoImplTest.java",
+		"/Applications/XAMPP/xamppfiles/htdocs/HelloWorld/phpdatepicker.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/HelloWorld/test.php",
+		"/Users/jbabu/Desktop/campaign.js",
+		"/Users/jbabu/Desktop/salesforce-error.xhtml",
+		"/Users/jbabu/Downloads/Project Reference/ApartmentPortal/src/main/java/wpl/apartmentportal/dao/App.java",
+		"/Users/jbabu/Downloads/Project Reference/ApartmentPortal/src/main/java/wpl/apartmentportal/dao/util/HibernateUtil.java",
+		"/Users/jbabu/Downloads/Project Reference/ApartmentPortal/src/main/webapp/WEB-INF/web.xml",
+		"/Users/jbabu/Downloads/Project Reference/ApartmentPortal/src/main/webapp/LoginRegister/LoginRegister.jsp",
+		"/Users/jbabu/Downloads/Project Reference/ApartmentPortal/src/main/webapp/Error.jsp",
+		"/Users/jbabu/Downloads/Project Reference/ApartmentPortal/src/main/webapp/AdminPortal/index.jsp",
+		"/Users/jbabu/Downloads/Project Reference/ApartmentPortal/src/main/resources/hibernate1.cfg.xml",
+		"/Users/jbabu/Downloads/Project Reference/ApartmentPortal/src/main/java/wpl/apartmentportal/controller/SignupController.java",
+		"/Users/jbabu/Downloads/Project Reference/ApartmentPortal/src/main/java/wpl/apartmentportal/dao/SignupDao.java",
+		"/Users/jbabu/Downloads/Project Reference/ApartmentPortal/src/main/java/wpl/apartmentportal/bean/SignupBean.java",
+		"/Users/jbabu/Downloads/Project Reference/ApartmentPortal/src/main/java/wpl/apartmentportal/dao/PaymentDao.java",
+		"/Users/jbabu/dandb.jbabu.password.properties",
+		"/Users/jbabu/dandb.jbabu.properties"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"aligh",
+			"alert",
+			"'<font color='red'",
+			"aligh",
+			"><td>",
+			"input",
+			"\"",
+			"test",
+			"td",
+			"fn_status",
+			"hello.js",
+			"fn_status",
+			"datepicker",
+			"$('selectBtnId",
+			"$('msg",
+			"$('bookedBtn",
+			"$('col",
+			"$('col1",
+			"('disabled',true;",
+			"('disabled',false;",
+			"$('col8'",
+			"$('wish",
+			"';",
+			",=",
+			".style.background=",
+			".disabled=",
+			".innerHTML=",
+			".value=",
+			"document.getElementById('",
+			"=1 WHERE date =",
+			"selectBtnId",
+			"wishBtnId",
+			"bookedBtnId",
+			">\";\n",
+			"Appointment Booked ",
+			"'Booked'",
+			"DELETE * FROM ",
+			"WHERE customer_id=1 AND appointment_timing",
+			"bookedId",
+			"selectBtnId",
+			"clear",
+			"msg",
+			"’",
+			"Doctor",
+			"formwishBtnIdId",
+			"formselectBtnId",
+			"formdate",
+			"wishId",
+			"buttonId"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"align",
+			"'<font color=red",
+			"align",
+			"></td>",
+			"'",
+			"$('#selectBtnId",
+			"$('#msg",
+			"$('#bookedBtn",
+			"$('#col",
+			"$('#col1",
+			"('disabled',true);",
+			"('disabled',false);",
+			"$('#col8'",
+			"$('#wish",
+			"');",
+			",",
+			".css('background-color',",
+			".prop('disabled',",
+			".html(",
+			".val(",
+			"$('",
+			"'",
+			"Appointment_Dates",
+			"formWishBtnIdId",
+			"formSelectBtnId",
+			"formDate",
+			"wishBtnId",
+			"selectBtnId"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "userRegistration.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
